@@ -18,7 +18,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devansh193/todayApp-assignment.git
+   https://github.com/Zeexanhere/Confetti-Calculator.git
 
 2. **Navigate to the project directory:**
 
