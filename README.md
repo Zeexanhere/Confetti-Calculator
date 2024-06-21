@@ -1,6 +1,3 @@
-# Confetti-Calculator
-
-
 # Next.js App
 
 This app is deployed at: https://today-app-assignment-mb6g4dg13-devansh193s-projects.vercel.app/
